@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Baymarkets Norge Git og Web tricks",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "toreklevenberg",
+    "githubRepository": "bmn-git-web"
+  }
+}

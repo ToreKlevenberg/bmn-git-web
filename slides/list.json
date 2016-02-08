@@ -1,0 +1,17 @@
+[
+    "tittel.html",
+    [
+        "git-intro.html",
+        "git-flow.html",
+        "git-flow-diagram.html",
+        "effektivt-med-aliases.html",
+        "avansert-git.html"
+    ],
+    [
+        "diverse-web-tools.html",
+        "yeoman.html",
+        "npm-og-bower.html",
+        "gulp-grunt.html"
+    ],
+    "slutt.html"
+]
