@@ -299,3 +299,8 @@ body {
     height: 40px;
     float: right;
     margin-right: 102px; }
+  .reveal footer .bm-footer-copyright {
+    font-size: 14px;
+    float: left;
+    padding-top: 12px;
+    margin-left: 20px; }
